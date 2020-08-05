@@ -1,0 +1,26 @@
+## Hi there! 😁
+
+I'm Mateus Cunha, from Brazil (PB). I'm 23 years old. Studying, 8th period, Computer Science at the State University of Paraíba and full stack student with javascript. Graphic Design. Musician. Passionate about art and technology, always.
+
+In my free time, I like watching movies and series, listening to and playing music and especially sleeping and eating.
+
+my cv in github page: https://mateuscnh.github.io/mateuscnh/
+
+### 🚀 Skills
+- JavaScript
+- HTML & CSS
+- ReactJS & Styled-Components
+- NodeJS & Express
+- Databases (SQL & NoSql)
+- Figma / Adobe XD
+- Photoshop / CorelDraw
+</br>
+<div align="center">
+<a href="https://www.linkedin.com/in/mateuscnh" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-%2Fin%2Fmateuscnh-blue?style=for-the-badge&logo=appveyor">
+</a>
+
+<a href="https://www.instagram.com/mateuscnh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%40mateuscnh-DF1A6C?style=for-the-badge&logo=appveyor">
+</a>
+</div>
