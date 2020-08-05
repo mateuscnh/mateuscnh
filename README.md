@@ -1,6 +1,6 @@
 ## Hi there! 😁
 
-I'm Mateus Cunha, from Brazil (PB). I'm 23 years old. Studying, 8th period, Computer Science at the State University of Paraíba and full stack student with javascript, Graphic Design, Musician.
+I'm Mateus Cunha, from Brazil (PB). I'm 23 years old. Studying, 8th period, Computer Science at the State University of Paraíba, full stack student with javascript, Graphic Design, Musician.
 
 In my free time, I like watching movies and series, listening to and playing music and especially sleeping and eating.
 
