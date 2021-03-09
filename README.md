@@ -15,12 +15,7 @@ my cv in github page: https://mateuscnh.github.io/mateuscnh/
 - Figma / Adobe XD
 - Photoshop / CorelDraw
 </br>
-<div align="center">
+
 <a href="https://www.linkedin.com/in/mateuscnh" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-%2Fin%2Fmateuscnh-blue?style=for-the-badge&logo=appveyor">
 </a>
-
-<a href="https://www.instagram.com/mateuscnh/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%40mateuscnh-DF1A6C?style=for-the-badge&logo=appveyor">
-</a>
-</div>
