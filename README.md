@@ -8,9 +8,10 @@ my cv in github page: https://mateuscnh.github.io/mateuscnh/
 
 ### 🚀 Skills
 - JavaScript
-- HTML & CSS
-- ReactJS & Styled-Components
+- HTML, CSS & Sass
+- ReactJS, TypeScript & Styled-Components
 - NodeJS & Express
+- Spring
 - Databases (SQL & NoSql)
 - Figma / Adobe XD
 - Photoshop / CorelDraw
